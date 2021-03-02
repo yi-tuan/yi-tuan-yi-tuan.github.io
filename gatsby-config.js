@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Yi Tuan'S Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `yituan`,
+      summary: `who lives and works in China building useful things."yituan" is my cat, it is very cute, its Chinese name is "一团".`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    // siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    // social: {
+    //   twitter: `kylemathews`,
+    // },
   },
   plugins: [
     {

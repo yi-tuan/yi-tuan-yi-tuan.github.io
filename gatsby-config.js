@@ -3,7 +3,7 @@ module.exports = {
     title: `Yi Tuan'S Blog`,
     author: {
       name: `yituan`,
-      summary: `who lives and works in China building useful things."yituan" is my cat, it is very cute, its Chinese name is "一团".`,
+      summary: `who lives and works in China building useful things.The purpose of learning is to create,i will record my learning process here.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     // siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,

@@ -84,7 +84,7 @@ require("esbuild")
   .catch(() => process.exit(1))
 ```
 
-命令行中输入`node --inspect-brk index.js`启动脚本，打开命令面板，根据不同平台按下以下快捷键：Ctrl + Shift + P（Windows），Cmd + Shift + P（Mac），选择`Debug: Attach To Node Process`，然后找到对应的脚本程序，我们就可以在脚本中去断点了。
+命令行中输入`node --inspect-brk index.js`启动脚本，打开命令面板找到对应的脚本程序，我们就可以在脚本中去断点了。
 <img src="./img/esbuild-plugin.jpeg">
 
 ### 总结
